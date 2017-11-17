@@ -1,0 +1,5 @@
+#CAEN server
+Host joshstew
+	HostName login.engin.umich.edu
+	User joshstew
+	Compression yes
